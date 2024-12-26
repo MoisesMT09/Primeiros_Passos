@@ -15,6 +15,4 @@ Os targets é se tornar um programador eficiente no mundo tecnológico em desenv
       Para isso, esteri estudando o curso de **Gustavo Guanabara** em https://cursosemvideo para o versionamento de software. E estudando sobre 
  Dominio e Hospedagem de site, no material de HTML5 e em video-aulas no https://cursosemvideo.
        
-![freelancer](https://github.com/user-attachments/assets/6a4e2ca9-eff0-42ac-a4f4-1465ed0b1f24)
-
-
+![OIP](https://github.com/user-attachments/assets/2486eace-abaa-4ce7-b842-ad450fc078c2)
