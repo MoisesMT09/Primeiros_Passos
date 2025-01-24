@@ -18,5 +18,6 @@ Os targets é se tornar um programador eficiente no mundo tecnológico em desenv
  Hoje dia 23/01/2025, volto a instencificar os estudos de HTML, CSS E JAVASCRIP.
 
  Pensando em intencificar ele todos s dias daqui para frente.
-       
-![OIP](https://github.com/user-attachments/assets/2486eace-abaa-4ce7-b842-ad450fc078c2)
+ 
+ 1º. Dia 24/01/2025, mais um aprendizado para intensificar as Hbilidades de HTML.
+![Estrutura básica de um documento HTML(Gustavo Guanabara)](https://github.com/user-attachments/assets/95035538-f5fa-48f3-97ba-9ed3203f4852)
